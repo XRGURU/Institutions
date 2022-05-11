@@ -54,7 +54,8 @@ Download the free application
 ## How to register from website
 Anyone can sign up by going to the [xrguru.com](https://xrguru.com) and clicking "Start Your Free Trial," then adding certain packages to their cart. Go to the cart and click the check out button to complete your purchase.
 
-![image](https://user-images.githubusercontent.com/105265661/167788025-dac3d8d1-6dfc-4791-ad84-9aa8b0137089.png)
+ ![159876748-d0876123-9d8b-492a-b22e-06947d81bfaf](https://user-images.githubusercontent.com/105265661/167835870-a69a0a2e-4232-493b-9d5d-9e3742005a3d.png)
+
 
 ![159876934-f56ca441-4ba4-48b2-a732-9c7de53d4ca8](https://user-images.githubusercontent.com/105265661/167788048-f6c9b523-d21a-4aea-9c30-b62548a417c3.png)
 
