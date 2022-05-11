@@ -1,6 +1,6 @@
 
 ![xrgurulogo](https://user-images.githubusercontent.com/105265661/167609928-93d24a7b-88e1-4d63-b7ea-2dd533adb98c.jpg)
-# Individuals - Documentation
+# Institutions - Documentation
 
  # What is XR Guru?
 
