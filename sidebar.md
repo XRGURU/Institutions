@@ -3,8 +3,8 @@
 - [Quick Start](quick-start)
 - [Market Place](marketplace)
 - [User Login](userlogin)
-- [WebPortal - AdminLogin](adminLogin)
-- [WebPortal - TeacherLogin](teacherLogin)
-- [WebPortal - StudentLogin](studentLogin)
+- [WebPortal - AdminLogin](adminlogin)
+- [WebPortal - TeacherLogin](teacherlogin)
+- [WebPortal - StudentLogin](studentlogin)
 - [Supported Devices](devices)
 
