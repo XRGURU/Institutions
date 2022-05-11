@@ -17,7 +17,17 @@ As an example, granting a biology licence to a biology teacher.
 For creating a teacher, you must provide your first name, last name, and email address. After you create a teacher, you will receive an email with their login information. Even teachers must update their passwords for the first time while logging in.
 
 
+![image](https://user-images.githubusercontent.com/105265661/167844398-f0f6d354-77da-4fb7-9593-a97800529528.png)
+
+
 ## Students
+You're on the Students tab,
+This page allows the admin to view all of his students an export all the student information into excel sheet.
+
+
+![image](https://user-images.githubusercontent.com/105265661/167845300-b1310408-d9a6-4346-91af-1631d9e2c521.png)
+
+
 ## How to create courses
 ## Subsriptions
 ## Settings
