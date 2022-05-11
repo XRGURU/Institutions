@@ -52,7 +52,9 @@ Download the free application
 # User Registration
 
 ## How to register from website
-Any Institute can sign up by going to the [xrguru.com](https://xrguru.com) and clicking "Start Your Free Trial," then adding certain packages to their cart. Go to the cart and click the check out button to complete your purchase.
+Any Institute can sign up by going to the [xrguru.com](https://xrguru.com) and clicking "Start Your Free Trial".
+
+Click on the institution tab and start certain packages to the cart. Go to the cart and click the check out button to complete your purchase.
 
  ![159876748-d0876123-9d8b-492a-b22e-06947d81bfaf](https://user-images.githubusercontent.com/105265661/167835870-a69a0a2e-4232-493b-9d5d-9e3742005a3d.png)
 
