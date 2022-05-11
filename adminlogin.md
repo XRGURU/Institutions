@@ -16,9 +16,18 @@ As an example, granting a biology licence to a biology teacher.
 
 For creating a teacher, you must provide your first name, last name, and email address. After you create a teacher, you will receive an email with their login information. Even teachers must update their passwords for the first time while logging in.
 
-The search option in the top right corner can help you find teachers quickly from a long list.
 
 ![image](https://user-images.githubusercontent.com/105265661/167844398-f0f6d354-77da-4fb7-9593-a97800529528.png)
+
+
+### Teachers List
+This screen lists all your teachers.
+The search option in the top right corner can help you find teachers quickly from a long list.
+Edit icon on the right hand side will take you to the details page where we can see three tabs Account info, manage licences and associated courses.
+
+
+![tempsnip](https://user-images.githubusercontent.com/105265661/167853267-573dd972-acb5-4fef-9c12-5bd501f06c09.png)
+
 
 
 ## Students
